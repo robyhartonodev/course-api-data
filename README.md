@@ -5,4 +5,4 @@
 Get Topics
 https://courseapitest.herokuapp.com/topics
 
-Post, Put, Delete are available as well
+Post, Put, Delete are available as well 
