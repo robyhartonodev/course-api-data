@@ -1,5 +1,12 @@
 # course-api-data
- Spring boot REST test from javabrain tutorial 
+ Spring boot REST test from javabrain tutorial. Spring boot makes dependency management for a spring application vastly easier.
+ 
+# dependencies (main)
+- Spring
+- Spring MVC
+- Spring Actuator
+- JPA
+- Hibernate
 
 # testing 
 Get Topics
